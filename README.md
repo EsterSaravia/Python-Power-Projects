@@ -1,2 +1,4 @@
 # Python-Power-Up
-Este repositório contém 4 projetos que demonstram o poder do Python em diferentes áreas, desde automação de tarefas até desenvolvimento de aplicações web e análise de dados. Cada projeto mostra como Python pode ser usado para resolver problemas do mundo real e aumentar a eficiência de processos.
+Este repositório  utiliza PyAutoGUI e Time para automatizar tarefas repetitivas, como o preenchimento de formulários e navegação em interfaces desktop. É ideal para quem quer ganhar produtividade ao eliminar tarefas manuais.
+Tecnologias: PyAutoGUI, Time
+Funcionalidade: Automação de tarefas manuais.
